@@ -24,12 +24,12 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/KINGS-AS/RDX/fork)
+ Click [FORK](https://github.com/Joshuva-ser/ALFAserv2/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Joshuva-ser/ALFAserv2 copy this url and change Joshuva-ser with your github username and click go<br>
 
 
-6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
+6.This method not working click [Whtsapp Number](https://wa.me/918129900380) Save my number and massage me 
 
 ------
 
@@ -38,10 +38,10 @@
   <a href="httsp://github.com/KINGS-AS/RDX">
     <img src="https://img.shields.io/github/repo-size/KINGS-AS/RDX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/KINGS-AS/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KINGS-AS/RDX?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KINGS-AS/RDX?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KINGS-AS/RDX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Joshuva-ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
+<a href="https://github.com/Joshuva-ser/ALFAserv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KINGS-AS/RDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Joshuva-ser/ALFAserv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KINGS-AS/RDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Joshuva-ser/ALFAserv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KINGS-AS/RDX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
